@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>87b4239b-3d1a-42e8-84af-61da24aad9ed</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Miketest-test1.docx</DisplayName>
+    <PathInsideRepo>MyWordDocs</PathInsideRepo>
+    <RepoRootFolder>C:\Users\admin\Documents\VersionRocket Repositories\MikeTest</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>5c4e55b2-2032-4db0-98b4-427431c18a0e</guid>
+    <guid>3049538d-1a7f-4026-a423-c48d36038a8f</guid>
+  </Tags>
+</FolderEntryTags>
